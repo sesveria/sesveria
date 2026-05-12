@@ -1,6 +1,4 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sesveria)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesveria)
 ![trophy](https://github-profile-trophy.vercel.app/?username=sesveria)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=sesveria)
 <!--

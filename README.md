@@ -1,6 +1,8 @@
-## Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=sesveria)
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=sesveria)
+- 🔭 I’m currently working on Cloud
+- 🌱 I’m currently learning Harness/SDD/openspec/superpowers
+- 📫 How to reach me: here
+- 😄 Pronouns: zh
+- ⚡ Fun fact: AI agent
 <!--
 **sesveria/sesveria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

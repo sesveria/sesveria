@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on Cloud
 - 🌱 I’m currently learning Harness/SDD/openspec/superpowers
 - 📫 How to reach me: here
-- 😄 Pronouns: zh
 - ⚡ Fun fact: AI agent
 <!--
 **sesveria/sesveria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
